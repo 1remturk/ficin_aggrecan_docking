@@ -1,14 +1,14 @@
 # In-Silico Structural Evaluation of Ficin Proteolytic Targeting on Aggrecan G1 Domain
 <p align="center">
-  <img src="a.png" alt="Ficin-Aggrecan Docked Complex Interface" width="750">
+  <img src="[a.png](https://github.com/1remturk/ficin_aggrecan_docking/blob/main/a.png?raw=true)" alt="Ficin-Aggrecan Docked Complex Interface" width="750">
   <br>
   <em>Figure 1: 3D surface docking interface of Ficin (hot pink) bound to the Aggrecan G1 domain (blue) with inter-protein hydrogen bonds and contact sticks (Pose 15, ΔG = -3.74 kcal/mol).</em>
 </p>
 
 ## Overview
-Computational pipeline evaluating protein-protein docking between **Ficin** (*Ficus carica*, AlphaFold: P29714) and **Aggrecan G1 Domain** (PDB: 1N22), an extracellular matrix barrier limiting neural stem cell niche plasticity.
+Computational pipeline evaluating protein-protein docking between Ficin (*Ficus carica*, AlphaFold: P29714) and Aggrecan G1 Domain (PDB: 1N22), an extracellular matrix barrier limiting neural stem cell niche plasticity.
 
-## Key Findings (Pose 15)
+
 - **Binding Energy Proxy:** -3.74 kcal/mol
 - **Favorable Contacts:** 17
 - **Steric Clashes:** 0
