@@ -1,6 +1,6 @@
 # In-Silico Structural Evaluation of Ficin Proteolytic Targeting on Aggrecan G1 Domain
 <p align="center">
-  <img src="ficin_aggrecan_interface.png" alt="Ficin-Aggrecan Docked Complex Interface" width="750">
+  <img src="a.png" alt="Ficin-Aggrecan Docked Complex Interface" width="750">
   <br>
   <em>Figure 1: 3D surface docking interface of Ficin (hot pink) bound to the Aggrecan G1 domain (blue) with inter-protein hydrogen bonds and contact sticks (Pose 15, ΔG = -3.74 kcal/mol).</em>
 </p>
